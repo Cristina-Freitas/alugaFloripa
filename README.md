@@ -1,4 +1,4 @@
-# alugaFloripa — Previsão de Aluguel Residencial em Florianópolis
+# AlugaFloripa — Previsão de Aluguel Residencial em Florianópolis
 
 Projeto de ciência de dados desenvolvido para o módulo **Desenvolvimento de IA para Análise Preditiva**, com foco na construção de um pipeline completo de regressão para estimar o valor mensal de aluguel residencial em Florianópolis.
 
